@@ -1,0 +1,222 @@
+default:
+# Arroz
+  - producto: "Arroz"
+    descripcion: "Arroz 99% grano entero"
+    unidad: "g"
+    cantidad: 1800
+    categoria: "Abarrotes"
+    subcategoria: "Arroz, Frijoles y Semillas"
+    url: 
+      - "https://www.maxipali.co.cr/arroz-tio-pelon-entero-99-1800gr/p"
+      - "https://www.masxmenos.cr/arroz-tio-pelon-entero-99-1800gr/p"
+      - "https://www.peridomicilio.com/abarrotes/arroz/arroz-99/arroz-99-grano-entero-tio-pelon-1800kgr.html"
+  - producto: "Arroz"
+    descripcion: "Arroz 80% grano entero"
+    unidad: "g"
+    cantidad: 1800
+    categoria: "Abarrotes"
+    subcategoria: "Arroz, Frijoles y Semillas"
+    url: 
+      - "https://www.maxipali.co.cr/arroz-tio-pelon-80-semi-ent-1800-gr/p"
+      - "https://www.masxmenos.cr/arroz-tio-pelon-80-semi-ent-1800-gr/p"
+      - "https://www.peridomicilio.com/abarrotes/arroz/arroz-80/arroz-80-grano-entero-azul-tio-pelon-azul-1800gr.html"
+# Frijoles
+  - producto: "Frijoles"
+    descripcion: "Frijoles Negros"
+    unidad: "g"
+    cantidad: 800
+    categoria: "Abarrotes"
+    subcategoria: "Arroz, Frijoles y Semillas"
+    url: 
+      - "https://www.maxipali.co.cr/frijol-indiana-negro-800gr/p"
+      - "https://www.masxmenos.cr/frijol-indiana-negro-800gr/p"
+      - "https://www.masxmenos.cr/frijol-carolina-negro-800gr-4/p"
+  - producto: "Frijoles"
+    descripcion: "Frijoles Rojos"
+    unidad: "g"
+    cantidad: 800
+    categoria: "Abarrotes"
+    subcategoria: "Arroz, Frijoles y Semillas"
+    url: 
+      - "https://www.maxipali.co.cr/frijol-rojo-indiana-bolsa-800gr/p"
+      - "https://www.masxmenos.cr/frijol-rojo-indiana-bolsa-800gr/p"
+      - "https://www.masxmenos.cr/frijol-rojo-carolina-800gr-4/p"
+      - "https://www.peridomicilio.com/abarrotes/frijoles-y-granos-menores/frijoles-rojos/frijoles-rojos-cosecha-especial-tio-pelon-900gr.html"
+# Sal 
+  - producto: "Sal"
+    descripcion: "Sal Sol Refinada, Con Yodo y Fluor"
+    unidad: "g"
+    cantidad: 500
+    categoria: "Abarrotes"
+    subcategoria: "Especiales y Sazonadores"
+    url: 
+      - "https://www.maxipali.co.cr/sal-sol-refinada-yodada-bolsa-500gr/p"
+      - "https://www.masxmenos.cr/sal-sol-refinada-yodada-bolsa-500gr/p"
+      - "https://www.masxmenos.cr/sal-sabemas-refinada-bolsa-500gr-4/p"
+      - "https://www.peridomicilio.com/abarrotes/sal-y-sustitutos/sal/sal-refinada-sol-500grs.html"
+# Aceite de soya
+  - producto: "Sal"
+    descripcion: "Aceite de soya"
+    unidad: "ml"
+    cantidad: 900
+    categoria: "Abarrotes"
+    subcategoria: "Especiales y Sazonadores"
+    url: 
+      - "https://www.maxipali.co.cr/aceite-marca-clover-soya-900ml/p"
+      - "https://www.masxmenos.cr/aceite-marca-clover-soya-900ml/p"
+      - "https://www.masxmenos.cr/aceite-sabemas-soya-900ml-4/p"
+      - "https://www.peridomicilio.com/abarrotes/aceites-y-grasas/aceite-de-soya/aceite-capullo-soya-900ml.html"
+# Atun
+  - producto: "Atún"
+    descripcion: "Atún lomo en trocitos en aceite de soya"
+    unidad: "g"
+    cantidad: 105
+    categoria: "Abarrotes"
+    subcategoria: "Enlatados y Conservas"
+    url: 
+      - "https://www.maxipali.co.cr/atun-marca-sardimar-trocitos-en-aceite-de-soya-105gr/p"
+      - "https://www.maxipali.co.cr/atun-trocitos-aceite-splash-105gr/p"
+      - "https://www.masxmenos.cr/atun-trocitos-aceite-splash-105gr/p"
+      - "https://www.peridomicilio.com/abarrotes/atun-y-carnes-enlatadas/atun-en-trocitos/atun-lomo-en-trocitos-sardimar-105-gr.html"
+  - producto: "Atún"
+    descripcion: "Atún lomo en trocitos con vegetales"
+    unidad: "g"
+    cantidad: 105
+    categoria: "Abarrotes"
+    subcategoria: "Enlatados y Conservas"
+    url: 
+      - "https://www.maxipali.co.cr/atun-trocitos-vegetales-splash-105gr/p"
+      - "https://www.maxipali.co.cr/atun-marca-sardimar-trocitos-con-vegetales-105gr/p"
+      - "https://www.masxmenos.cr/atun-trocitos-vegetales-splash-105gr/p"
+      - "https://www.peridomicilio.com/abarrotes/atun-y-carnes-enlatadas/atun-con-vegetales/atun-con-vegetales-sardimar-105-gr.html"
+  - producto: "Atún"
+    descripcion: "Atún lomo en trozos en aceite de soya"
+    unidad: "g"
+    cantidad: 230
+    categoria: "Abarrotes"
+    subcategoria: "Enlatados y Conservas"
+    url: 
+      - "https://www.maxipali.co.cr/atun-calvo-trozos-aceite-230gr-4/p"
+      - "https://www.maxipali.co.cr/atun-tesoro-del-mar-trozos-lomo-aceite-230gr-4/p"
+      - "https://www.masxmenos.cr/atun-calvo-trozos-aceite-230gr-4/p"
+      - "https://www.masxmenos.cr/atun-tesoro-del-mar-trozos-lomo-aceite-230gr-4/p"
+      - "https://www.peridomicilio.com/abarrotes/atun-y-carnes-enlatadas/atun-en-trozos/atun-calvo-lom.trozos-230g-162555.html"
+  - producto: "Atún"
+    descripcion: "Atún lomo en trocitos con vegetales"
+    unidad: "g"
+    cantidad: 230
+    categoria: "Abarrotes"
+    subcategoria: "Enlatados y Conservas"
+    url: 
+      - "https://www.maxipali.co.cr/atun-gomes-vegetales-230gr-4/p"
+      - "https://www.masxmenos.cr/atun-gomes-vegetales-230gr-4/p"
+      - "https://www.peridomicilio.com/abarrotes/atun-y-carnes-enlatadas/atun-con-vegetales/atun-c-vegetales-sardimar-230gr.html"
+# Azucar
+  - producto: "Azucar"
+    descripcion: "Azucar Blanca"
+    unidad: "g"
+    cantidad: 1000
+    categoria: "Abarrotes"
+    subcategoria: "Azucar y Postres"
+    url: 
+      - "https://www.maxipali.co.cr/azucar-dona-maria-regular-blanca-1000gr/p"
+      - "https://www.masxmenos.cr/azucar-dona-maria-regular-blanca-1000gr/p"
+      - "https://www.peridomicilio.com/abarrotes/azucar-y-sustitutos/azucar/azucar-blanca-dona-maria-1kg.html"
+# Pasta Spaguetti
+  - producto: "Pasta Spaguetti"
+    descripcion: "Pasta Suli, Spaguetti largo -250g"
+    unidad: "g"
+    cantidad: 250
+    categoria: "Abarrotes"
+    subcategoria: "Pastas"
+    url: 
+      - "https://www.maxipali.co.cr/pasta-suli-spaguetti-larga-250gr-4/p"
+      - "https://www.maxipali.co.cr/pasta-larga-roma-spaguetti-250gr/p"
+      - "https://www.masxmenos.cr/pasta-larga-roma-spaguetti-250gr/p"
+      - "https://www.masxmenos.cr/pasta-suli-spaguetti-larga-250gr-4/p"
+      - "https://www.peridomicilio.com/abarrotes/pastas-alimenticias/pasta-larga/pasta-tipo-espagueti-7-lucema-250gr.html"
+# Harinas
+  - producto: "Harina"
+    descripcion: "Harina de trigo"
+    unidad: "g"
+    cantidad: 1000
+    categoria: "Abarrotes"
+    subcategoria: "Harinas y Reposteria"
+    url: 
+      - "https://www.maxipali.co.cr/harina-nacarina-trigo-1000gr-4/p"
+      - "https://www.maxipali.co.cr/harina-gold-medal-trigo-1000gr-4/p"
+      - "https://www.maxipali.co.cr/harina-sabemas-trigo-bolsa-1000gr-4/p"
+      - "https://www.masxmenos.cr/harina-gold-medal-trigo-1000gr-4/p"
+  - producto: "Harina"
+    descripcion: "Harina de maiz"
+    unidad: "g"
+    cantidad: 500
+    categoria: "Abarrotes"
+    subcategoria: "Harinas y Reposteria"
+    url: 
+      - "https://www.maxipali.co.cr/harina-suli-maiz-500gr/p"
+      - "https://www.maxipali.co.cr/harina-maiz-maseca-500gr-4/p"
+      - "https://www.masxmenos.cr/harina-maiz-maseca-500gr-4/p"
+      - "https://www.masxmenos.cr/harina-suli-maiz-500gr/p"
+# Huevos
+  - producto: "Huevos"
+    descripcion: "Huevo gallina marrón cartón de 15 unidades"
+    unidad: "unidades"
+    cantidad: 15
+    categoria: "Frescos"
+    subcategoria: "Huevos"
+    url: 
+      - "https://www.maxipali.co.cr/huevo-gallina-marca-don-cristobal-marron-15-unidades-kilo/p"
+      - "https://www.masxmenos.cr/huevo-gallina-marca-don-cristobal-marron-15-unidades-kilo/p"
+      - "https://www.masxmenos.cr/huevo-gallina-marca-don-cristobal-pastoreo-15-unidades-kilo/p"
+      - "https://www.peridomicilio.com/frescos/huevos/huevos/huevo-blco-ydora-15u-virtu.html"
+      - "https://www.peridomicilio.com/frescos/huevos/huevos/huevo-rojo-carton-15u.html"
+# Cafe
+  - producto: "Café"
+    descripcion: "Café molido"
+    unidad: "g"
+    cantidad: 500
+    categoria: "Abarrotes"
+    subcategoria: "Café, Té y Sustitutos"
+    url: 
+      - "https://www.maxipali.co.cr/cafe-1820-500gr-mas-10-550gr/p"
+      - "https://www.maxipali.co.cr/cafe-puro-leyenda-clasico-500gr-4/p"
+      - "https://www.masxmenos.cr/cafe-1820-molido-clasico-500gr/p"
+      - "https://www.masxmenos.cr/cafe-volio-clasico-molido-fino-500gr/p"
+      - "https://www.masxmenos.cr/cafe-puro-leyenda-clasico-500gr-4/p"
+      - "https://www.peridomicilio.com/abarrotes/cafe-te-y-complementos-para-el-cafe/cafe-puro/cafe-molido-1820-500gr.html"
+# Leche
+  - producto: "Leche"
+    descripcion: "Leche semidescremada"
+    unidad: "ml"
+    cantidad: 1000
+    categoria: "Frescos"
+    subcategoria: "Lacteos"
+    url: 
+      - "https://www.maxipali.co.cr/leche-sabemas-uht-semidescremada-1000ml-4/p"
+      - "https://www.masxmenos.cr/leche-dos-pinos-semidescremada-1000ml-2/p"
+      - "https://www.masxmenos.cr/leche-sabemas-uht-semidescremada-1000ml-4/p"
+      - "https://www.masxmenos.cr/leche-coronado-semidescremada-1000ml/p"
+      - "https://www.peridomicilio.com/lacteos/leches/leches-fluidas/leche-semidescremada-azul-dos-pinos-1000ml.html"
+      - "https://www.peridomicilio.com/lacteos-es/leches/leches-fluidas/leche-dos-pinos-bienestar-1.5-semidescremada-1000ml-es.html"
+  - producto: "Leche"
+    descripcion: "Leche en polvo"
+    unidad: "g"
+    cantidad: 400
+    categoria: "Frescos"
+    subcategoria: "Lacteos"
+    url: 
+      - "https://www.maxipali.co.cr/leche-dos-pinos-en-polvo-pinito-400gr-4/p"
+      - "https://www.masxmenos.cr/leche-dos-pinos-en-polvo-pinito-400gr-4/p"
+      - "https://www.peridomicilio.com/lacteos/leches/leche-en-polvo/leche-en-polvo-pinito-dos-pinos-400gr.html"
+# Queso
+  - producto: "Queso Fresco"
+    descripcion: "Queso Fresco tipo turrialba"
+    unidad: "g"
+    cantidad: 500
+    categoria: "Frescos"
+    subcategoria: "Lacteos"
+    url: 
+      - "https://www.maxipali.co.cr/queso-del-prado-turrialba-500gr/p"
+      - "https://www.masxmenos.cr/queso-del-prado-turrialba-500gr/p"
+      - "https://www.masxmenos.cr/queso-dos-pinos-fresc-turrialba-500gr/p"
